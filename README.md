@@ -1,2 +1,0 @@
-# RoboticsProjectWork
-Object detection
